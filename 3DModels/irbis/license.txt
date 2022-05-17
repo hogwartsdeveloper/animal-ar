@@ -1,11 +1,11 @@
 Model Information:
-* title:	Snow Leopard (NHMW-Zoo-MAMM B5555)
-* source:	https://sketchfab.com/3d-models/snow-leopard-nhmw-zoo-mamm-b5555-b1a06e65cff745fc9f64de0f1aacbab4
-* author:	Natural History Museum Vienna (https://sketchfab.com/NHMWien)
+* title:	Snow leopard from Poly by Google
+* source:	https://sketchfab.com/3d-models/snow-leopard-from-poly-by-google-914e8cebb6bf4e9c9b90d61775ed17fd
+* author:	IronEqual (https://sketchfab.com/ie-niels)
 
 Model License:
-* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-* requirements:	Author must be credited. No commercial use.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Snow Leopard (NHMW-Zoo-MAMM B5555)" (https://sketchfab.com/3d-models/snow-leopard-nhmw-zoo-mamm-b5555-b1a06e65cff745fc9f64de0f1aacbab4) by Natural History Museum Vienna (https://sketchfab.com/NHMWien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+This work is based on "Snow leopard from Poly by Google" (https://sketchfab.com/3d-models/snow-leopard-from-poly-by-google-914e8cebb6bf4e9c9b90d61775ed17fd) by IronEqual (https://sketchfab.com/ie-niels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

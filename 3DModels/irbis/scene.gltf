@@ -3,142 +3,86 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 65532,
+      "count": 1992,
       "max": [
-        580.7630615234375,
-        1194.089111328125,
-        873.03759765625
+        0.8461260199546814,
+        4.670546054840088,
+        4.518198013305664
       ],
       "min": [
-        -437.0690612792969,
-        467.8765563964844,
-        -432.52764892578125
+        -0.8461260199546814,
+        0.0,
+        -4.518198013305664
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 786384,
+      "byteOffset": 23904,
       "componentType": 5126,
-      "count": 65532,
+      "count": 1992,
       "max": [
-        0.9999932050704956,
-        0.9999678134918213,
-        0.9999377131462097
+        0.9999086260795593,
+        0.977300763130188,
+        0.9486242532730103
       ],
       "min": [
-        -0.9999953508377075,
-        -0.9999956488609314,
-        -0.9999977946281433
+        -0.9999086260795593,
+        -1.0,
+        -0.9969980120658875
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 65532,
+      "count": 1992,
       "max": [
-        0.9964540004730225,
-        0.9992560148239136
+        0.9870949983596802,
+        -0.024372000247240067
       ],
       "min": [
-        0.0007440000190399587,
-        0.0007489999989047647
+        0.010579999536275864,
+        -0.9784650206565857
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 346647,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1572768,
-      "componentType": 5126,
-      "count": 46059,
-      "max": [
-        626.0556640625,
-        1198.7257080078125,
-        876.006591796875
-      ],
-      "min": [
-        -431.3553466796875,
-        436.98431396484375,
-        -433.225341796875
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 2125476,
-      "componentType": 5126,
-      "count": 46059,
-      "max": [
-        1.0,
-        0.9999901652336121,
-        1.0
-      ],
-      "min": [
-        -0.9999693036079407,
-        -0.9999940395355225,
-        -0.9997111558914185
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 524256,
-      "componentType": 5126,
-      "count": 46059,
-      "max": [
-        0.9923170208930969,
-        0.9992560148239136
-      ],
-      "min": [
-        0.0007440000190399587,
-        0.0014220000011846423
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 1386588,
-      "componentType": 5125,
-      "count": 253353,
+      "count": 2964,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "Natural History Museum Vienna (https://sketchfab.com/NHMWien)",
-      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
-      "source": "https://sketchfab.com/3d-models/snow-leopard-nhmw-zoo-mamm-b5555-b1a06e65cff745fc9f64de0f1aacbab4",
-      "title": "Snow Leopard (NHMW-Zoo-MAMM B5555)"
+      "author": "IronEqual (https://sketchfab.com/ie-niels)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/snow-leopard-from-poly-by-google-914e8cebb6bf4e9c9b90d61775ed17fd",
+      "title": "Snow leopard from Poly by Google"
     },
-    "generator": "Sketchfab-12.66.0",
+    "generator": "Sketchfab-12.65.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 2400000,
+      "byteLength": 11856,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 892728,
-      "byteOffset": 2400000,
+      "byteLength": 15936,
+      "byteOffset": 11856,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 2678184,
-      "byteOffset": 3292728,
+      "byteLength": 47808,
+      "byteOffset": 27792,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -146,44 +90,24 @@
   ],
   "buffers": [
     {
-      "byteLength": 5970912,
+      "byteLength": 75600,
       "uri": "scene.bin"
-    }
-  ],
-  "extensionsRequired": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "extensionsUsed": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "images": [
-    {
-      "uri": "textures/material_0_diffuse.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 0
-          },
-          "glossinessFactor": 0.056109960279985494,
-          "specularFactor": [
-            0.0,
-            0.0,
-            0.0
-          ]
-        }
-      },
-      "name": "material_0"
+      "name": "SnowLeopard_mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.969948
+      }
     }
   ],
   "meshes": [
@@ -201,21 +125,6 @@
           "mode": 4
         }
       ]
-    },
-    {
-      "name": "Object_1",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 5,
-            "POSITION": 4,
-            "TEXCOORD_0": 6
-          },
-          "indices": 7,
-          "material": 0,
-          "mode": 4
-        }
-      ]
     }
   ],
   "nodes": [
@@ -224,47 +133,64 @@
         1
       ],
       "matrix": [
-        0.000815549996147677,
-        5.697442091313572e-05,
-        -0.0009455854979399103,
+        1.0,
         0.0,
-        1.4753392567782263e-05,
-        -0.0012483496684949913,
-        -6.249236268939781e-05,
         0.0,
-        -0.0009471855100873366,
-        2.9612043210595045e-05,
-        -0.0008151458021593283,
         0.0,
-        190.94789123535156,
-        1028.6140136718752,
-        -561.112609863281,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
         1.0
       ],
       "name": "Sketchfab_model"
     },
     {
       "children": [
-        2,
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
         3
       ],
-      "name": "NHMW-Zoo1-MAMM-5555-Schneeleopard_low res.obj.cleaner.materialmerger.gles"
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "node-0_0"
     },
     {
       "mesh": 0,
-      "name": "Object_2"
-    },
-    {
-      "mesh": 1,
-      "name": "Object_3"
-    }
-  ],
-  "samplers": [
-    {
-      "magFilter": 9729,
-      "minFilter": 9987,
-      "wrapS": 10497,
-      "wrapT": 10497
+      "name": "Object_4"
     }
   ],
   "scene": 0,
@@ -274,12 +200,6 @@
       "nodes": [
         0
       ]
-    }
-  ],
-  "textures": [
-    {
-      "sampler": 0,
-      "source": 0
     }
   ]
 }
