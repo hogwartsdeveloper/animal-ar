@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Caracal
+* source:	https://sketchfab.com/3d-models/low-poly-caracal-ff3aa7c3cff9463fa2a0f39cc32ecb0b
+* author:	mk317828 (https://sketchfab.com/mk317828)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Caracal" (https://sketchfab.com/3d-models/low-poly-caracal-ff3aa7c3cff9463fa2a0f39cc32ecb0b) by mk317828 (https://sketchfab.com/mk317828) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
